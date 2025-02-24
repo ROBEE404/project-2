@@ -1,7 +1,7 @@
 # QR Code Generator in Python
 
-![QR Code Example]() 
-![qrcode](https://github.com/user-attachments/assets/e40fbb8a-2b47-4470-b2f5-afcddc9a3d68)
+![QR Code Example](https://github.com/user-attachments/assets/e40fbb8a-2b47-4470-b2f5-afcddc9a3d68) 
+
 
 A simple yet powerful QR code generator implemented in Python using the qrcode library.
 
